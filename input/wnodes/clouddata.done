@@ -1,0 +1,70 @@
+APEL-cloud-message: v0.2
+VMUUID: https://cloud.cesga.es:3202/compute/47f74797-e9c9-46d7-b28d-5f87209239eb 2013-02-25 17:37:27+00:00
+SiteName: CESGA
+MachineName: one-2421
+LocalUserId: 19
+LocalGroupId: 101
+GlobalUserName:
+FQAN:
+Status: completed
+StartTime: 2013-05-29T09:48:53Z
+EndTime: 2013-05-29T12:11:33Z
+SuspendDuration:
+WallDuration:
+CpuDuration:
+CpuCount:
+NetworkType:
+NetworkInbound: 0
+NetworkOutbound: 0
+Memory: 1000
+Disk:
+StorageRecordId:
+ImageId:
+CloudType: OpenNebula
+%%
+VMUUID: https://cloud.cesga.es:3202/compute/47f84797-e9c9-46d7-b28d-5f87209239eb 2013-02-25 17:39:27+00:00
+SiteName: CESGA_1
+MachineName: one-2421_1
+LocalUserId: 11
+LocalGroupId: 111
+GlobalUserName:
+FQAN:
+Status: completed_1
+StartTime: 2013-05-29T09:48:53Z
+EndTime: 2013-05-29T12:11:33Z
+SuspendDuration:
+WallDuration:
+CpuDuration:
+CpuCount: 2
+NetworkType:
+NetworkInbound: 0
+NetworkOutbound: 0
+Memory: 1000
+Disk:
+StorageRecordId:
+ImageId: NULL
+CloudType: OpenNebula_1
+%%
+VMUUID: https://cloud.cesga.es:3202/compute/47f94797-e9c9-46d7-b28d-5f87209239eb 2013-02-25 17:38:27+00:00
+SiteName: CESGA_2
+MachineName: one-2421_2
+LocalUserId: 22
+LocalGroupId: 123
+GlobalUserName:
+FQAN:
+Status: completed
+StartTime: 2013-05-29T09:48:53Z
+EndTime: 2013-05-29T12:11:33Z
+SuspendDuration:
+WallDuration:
+CpuDuration:
+CpuCount: 1
+NetworkType:
+NetworkInbound: 0
+NetworkOutbound: 0
+Memory: 1000
+Disk:
+StorageRecordId:
+ImageId:
+CloudType: OpenNebula
+%%

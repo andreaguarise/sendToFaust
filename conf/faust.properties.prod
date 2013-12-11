@@ -1,0 +1,17 @@
+#faust uri
+#uri=http://lilith.to.infn.it:3030
+uri=http://dgas-dev-24.to.infn.it
+#timeout for connection to rest
+timeout=10
+#storage data
+#input data
+input_storage=/root/ldapstorage2ssm/local/out
+#token
+token_storage=698423505048000.128805894498473
+#cloud data
+#input data
+#input_cloud=/root/cloudata/local/out
+#token
+#token_cloud=698423505048000.128805894498473
+# log file path
+#logfile=log/logfile.log
